@@ -1,6 +1,6 @@
 site_name: MK1 Documentation
 repo_url: https://github.com/EchoMAV/mk1docs
-edit_uri: edit/master/docs
+edit_uri: edit/Rev0/docs
 repo_name: echomav/mk1docs
 nav:
     - Home: index.md
