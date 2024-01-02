@@ -16,6 +16,9 @@ While robust and waterproof, should a servo failure occur, the instructions belo
 
 #### Ruddervator Servo Replacement
 
+1. Step 1
+2. Step 2
+
 #### Aileron Servo Replacement
 
 ### Battery Replacement
