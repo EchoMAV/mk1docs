@@ -16,7 +16,8 @@ While robust and waterproof, should a servo failure occur, the instructions belo
 
 #### Ruddervator Servo Replacement
 
-1. Step 1
+1. Step 1<img width="1229" alt="test" src="https://github.com/EchoMAV/mk1docs/assets/155487175/988bda4f-51b0-4907-8666-ac75fc936425">
+
 2. Step 2
 
 #### Aileron Servo Replacement
