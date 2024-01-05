@@ -47,9 +47,9 @@ Using the Adjust set knob rotate until the 5/7 position is selected then press t
 ![Servo 12](https://github.com/EchoMAV/mk1docs/assets/155487175/2fa35279-f97f-4a48-9e48-de4fc830c785)  
 13. Place the new servo into the servo jig.  Note the servo horn might not be perfectly centered in the slot in the jig.  
 ![Servo 13](https://github.com/EchoMAV/mk1docs/assets/155487175/9c0dab8d-0e00-4e95-a26d-7fb31eda67af)  
-14. Press the adjust knob then rotate the pulse knob to center the servo horn to the slot in the jig.  This positions the servo horn to 90 deg to the servo when the servo is in the neutral position. Press the adjustment knob when servo horn is centered.  
+14. Press the adjust knob then rotate the pulse knob to center the servo horn to the slot in the jig.  In this position the servo horn is 90 deg to the servo when the servo is in the neutral position. Press the adjustment knob when servo horn is centered.  
 ![Servo 14](https://github.com/EchoMAV/mk1docs/assets/155487175/8c6853a0-6d8c-4f2a-a64f-532948d135d4)  
-15. Using the adjustment knob select the left position then press the adjustment knob.  Slowly turn the pulse know until value is set to -90 then press the adjust knob.
+15. Using the adjustment knob select the left position then press the adjustment knob.  Slowly turn the pulse knob until value is set to -90 then press the adjust knob.
 Using the adjustment knob select the right position then press the adjustment knob.  Slowly turn the pulse knob until value is set to 90 then press the adjust knob.
 Then press the back button.
 
@@ -63,8 +63,8 @@ Over Limit Protection = Off
 You can now switch the programmer to the test position and select manual mode.  Turning the pulse knob should rotate the servo. 
 Reinstall the servo into the Ruddervator reversing steps 1-6. Use blue (242) lock tight when reinstalling the bolts and nuts. Make sure to use heat shrink on all solder connections.  
 ![Servo 15](https://github.com/EchoMAV/mk1docs/assets/155487175/af3c3532-e41a-483f-be7d-8f9f1e2a0965)  
-16. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 79mm.
-verify all control service movement and direction using aircraft controller.   
+16. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 79mm.  
+Verify all control service movement and direction using aircraft controller.   
 ![Servo 16](https://github.com/EchoMAV/mk1docs/assets/155487175/28cbd84a-a6c2-482a-95ec-8d7a372bd3fb)  
 
 
