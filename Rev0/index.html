@@ -466,17 +466,86 @@
 <ol>
 <li>
 <p>Using a 2mm hex wrench and a 5mm socket wrench remove control arm from the servo horn.
-<img alt="IMG_3998" src="https://github.com/EchoMAV/mk1docs/assets/155487175/32bda68c-7c96-4422-bf58-3db6f269ff3d" /></p>
+<img alt="Servo 1" src="https://github.com/EchoMAV/mk1docs/assets/155487175/a81854f3-c6ca-43ea-9103-8147a8b254c4" /></p>
 </li>
 <li>
 <p>Using a 2 mm hex wrench remove servo hold down bracket screw. 
-<img alt="IMG_4001" src="https://github.com/EchoMAV/mk1docs/assets/155487175/c755026c-fb21-430f-a45d-9192c3dd4e55" /></p>
+<img alt="Servo 2" src="https://github.com/EchoMAV/mk1docs/assets/155487175/c4def55a-1d54-4fd7-b0d2-113682bfef1c" /></p>
 </li>
 <li>
 <p>Remove servo hold down bracket.
-<img alt="IMG_4002" src="https://github.com/EchoMAV/mk1docs/assets/155487175/26cfb40a-03a3-4615-9592-c9e9b47b9255" /></p>
+<img alt="Servo 3" src="https://github.com/EchoMAV/mk1docs/assets/155487175/8cf9c761-9ff0-4ef8-a4b9-9d4a68f85a99" /></p>
+</li>
+<li>
+<p>Gently remove servo from Ruddervator.
+<img alt="Servo 4" src="https://github.com/EchoMAV/mk1docs/assets/155487175/ac2f1a1d-92e1-4f87-bfa8-7437149cae01" /></p>
+</li>
+<li>
+<p>Remove servo control horn.  Inspect and if not damaged or bent it can be reused.</p>
+</li>
+<li>
+<p>De-solder the 3 servo wires allowing the servo to be removed from the Ruddervator.
+<img alt="Servo 6" src="https://github.com/EchoMAV/mk1docs/assets/155487175/0fb6caf5-b208-45d9-9d31-c4a85485a032" /></p>
+</li>
+<li>
+<p>Install new (or reused) servo horn on servo and move servo clockwise as far as it will go. Pay attention to this position.
+ See pic. 
+<img alt="Servo 7" src="https://github.com/EchoMAV/mk1docs/assets/155487175/f30f0e81-5340-4647-987a-cda5b4273f27" /></p>
+</li>
+<li>
+<p>Move servo horn counterclockwise as far as it will go.  Pay attention to this position.
+<img alt="Servo 8" src="https://github.com/EchoMAV/mk1docs/assets/155487175/4cebe606-e30a-4552-a101-570d2b38d909" /></p>
+</li>
+<li>
+<p>Remove servo horn and replace halfway in between the two positions found in steps ## &amp; ##</p>
 </li>
 </ol>
+<p>Note – The servo control horn position (9 o’clock – pointing to the left side) is for the Right Ruddervator.  For the left Ruddervator the servo horn will be in the 3 o’clock position pointing to the right side.
+<img alt="Servo 9" src="https://github.com/EchoMAV/mk1docs/assets/155487175/55d87f4b-0870-4250-bcd6-590159109e65" /></p>
+<p>10.Plug in power source to Servo Programmer and plug in new servo to programmer.
+Set the programmer to prog mode using the slide switch on the right side of programmer.
+Using the Adjust set knob rotate until the 5/7 position is selected then press the adjust knob.</p>
+<ol>
+<li>
+<p><img alt="Servo 10" src="https://github.com/EchoMAV/mk1docs/assets/155487175/264d55d6-b986-406a-af8c-160c49680412" /></p>
+</li>
+<li>
+<p>Using the pulse knob slowly rotate the knob until arrows are indicated on both sides of the “Pulse Center” display.
+<img alt="Servo 11" src="https://github.com/EchoMAV/mk1docs/assets/155487175/b0a16421-b43e-491d-9e11-e08032b2f19b" /></p>
+</li>
+<li>
+<p>After centered the programmer will return to the programming screen.
+<img alt="Servo 12" src="https://github.com/EchoMAV/mk1docs/assets/155487175/2fa35279-f97f-4a48-9e48-de4fc830c785" /></p>
+</li>
+<li>
+<p>Place the new servo into the servo jig.  Note the servo horn might not be perfectly centered in the slot in the jig.
+<img alt="Servo 13" src="https://github.com/EchoMAV/mk1docs/assets/155487175/9c0dab8d-0e00-4e95-a26d-7fb31eda67af" /></p>
+</li>
+<li>
+<p>Press the adjust knob then rotate the pulse knob to center the servo horn to the slot in the jig.  This positions the servo horn to 90 deg to the servo when the servo is in the neutral position. Press the adjustment knob when servo horn is centered.
+<img alt="Servo 14" src="https://github.com/EchoMAV/mk1docs/assets/155487175/8c6853a0-6d8c-4f2a-a64f-532948d135d4" /></p>
+</li>
+<li>
+<p>Using the adjustment knob select the left position then press the adjustment knob.  Slowly turn the pulse know until value is set to -90 then press the adjust knob.
+Using the adjustment knob select the right position then press the adjustment knob.  Slowly turn the pulse knob until value is set to 90 then press the adjust knob.
+Then press the back button.
+Verify that the following values are set.</p>
+</li>
+</ol>
+<p>Limits = -90/90
+Deadband = 1
+Speed = 64
+Failsafe = Off
+High Res = Off
+Over Limit Protection = Off</p>
+<p>You can now switch the programmer to the test position and select manual mode.  Turning the pulse knob should rotate the servo. 
+Reinstall the servo into the Ruddervator reversing steps ## - ##. Use blue (242) lock tight when reinstalling the bolts and nuts. Make sure to use heat shrink on all solder connections.
+<img alt="Servo 15" src="https://github.com/EchoMAV/mk1docs/assets/155487175/af3c3532-e41a-483f-be7d-8f9f1e2a0965" /></p>
+<ol>
+<li>Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 79mm.</li>
+</ol>
+<p>verify all control service movement and direction using aircraft controller. 
+<img alt="Servo 16" src="https://github.com/EchoMAV/mk1docs/assets/155487175/28cbd84a-a6c2-482a-95ec-8d7a372bd3fb" /></p>
 <h4 id="aileron-servo-replacement">Aileron Servo Replacement<a class="headerlink" href="#aileron-servo-replacement" title="Permanent link">&para;</a></h4>
 <h3 id="battery-replacement">Battery Replacement<a class="headerlink" href="#battery-replacement" title="Permanent link">&para;</a></h3>
 <h3 id="fuel-filter-checkclean">Fuel Filter Check/Clean<a class="headerlink" href="#fuel-filter-checkclean" title="Permanent link">&para;</a></h3>
