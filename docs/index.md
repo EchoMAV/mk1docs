@@ -33,7 +33,7 @@ See pic.
 ![Servo 7](https://github.com/EchoMAV/mk1docs/assets/155487175/f30f0e81-5340-4647-987a-cda5b4273f27)  
 8. Move servo horn counterclockwise as far as it will go.  Pay attention to this position.  
 ![Servo 8](https://github.com/EchoMAV/mk1docs/assets/155487175/4cebe606-e30a-4552-a101-570d2b38d909)  
-9. Remove servo horn and replace halfway in between the two positions found in steps 7 & 8
+9. Rotate the servo horn to the halfway point between the two positions found in steps 7 & 8. This should position the servo aproximatly to the 9 o'clock position pointing to the left.
 
 Note – The servo control horn position (9 o’clock – pointing to the left side) is for the Right Ruddervator.  For the left Ruddervator the servo horn will be in the 3 o’clock position pointing to the right side.  
 ![Servo 9](https://github.com/EchoMAV/mk1docs/assets/155487175/55d87f4b-0870-4250-bcd6-590159109e65)  
@@ -46,9 +46,9 @@ Using the Adjust set knob rotate until the 5/7 position is selected then press t
 12. After centered the programmer will return to the programming screen.  
 ![Servo 12](https://github.com/EchoMAV/mk1docs/assets/155487175/2fa35279-f97f-4a48-9e48-de4fc830c785)  
 13. Place the new servo into the servo jig.  Note the servo horn might not be perfectly centered in the slot in the jig.  
-![Servo 13](https://github.com/EchoMAV/mk1docs/assets/155487175/9c0dab8d-0e00-4e95-a26d-7fb31eda67af)  
+![Servo 14](https://github.com/EchoMAV/mk1docs/assets/155487175/2538649a-6607-45e4-910e-decb8907e6be)    
 14. Press the adjust knob then rotate the pulse knob to center the servo horn to the slot in the jig.  In this position the servo horn is 90 deg to the servo when the servo is in the neutral position. Press the adjustment knob when servo horn is centered.  
-![Servo 14](https://github.com/EchoMAV/mk1docs/assets/155487175/8c6853a0-6d8c-4f2a-a64f-532948d135d4)  
+![Servo 13](https://github.com/EchoMAV/mk1docs/assets/155487175/e8f9e857-408d-4ab7-a17f-c6ce1f20be99)  
 15. Using the adjustment knob select the left position then press the adjustment knob.  Slowly turn the pulse knob until value is set to -90 then press the adjust knob.
 Using the adjustment knob select the right position then press the adjustment knob.  Slowly turn the pulse knob until value is set to 90 then press the adjust knob.
 Then press the back button.
