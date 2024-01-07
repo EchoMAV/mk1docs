@@ -461,7 +461,33 @@
 <p><img alt="EchoPilot AI" src="assets/mk1_image1.jpg" /></p>
 <h2 id="maintenance">Maintenance<a class="headerlink" href="#maintenance" title="Permanent link">&para;</a></h2>
 <h3 id="servo-replacement">Servo Replacement<a class="headerlink" href="#servo-replacement" title="Permanent link">&para;</a></h3>
-<p>While robust and waterproof, should a servo failure occur, the instructions below can be used to replace the servos. Note that servos are configured at the factory for centerpoint, limits and other parameters and cannot be swapped with a commercial servo of the same part number. For replacement servos, please contact support@echomav.com.</p>
+<p>The instructions below can be used to program and replaced a damaged servo. </p>
+<table>
+<thead>
+<tr>
+<th>Position</th>
+<th>Servo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ruddervator</td>
+<td>Hitec HS-5086WP</td>
+</tr>
+<tr>
+<td>Aileron</td>
+<td>Hitec HS-5086WP</td>
+</tr>
+<tr>
+<td>Throttle</td>
+<td>Hitec HS-5086WP</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>The Ruddervator and Aileron servos must be programmed using the instructiosn below prior to installation in the vehicle. Failure to do so may result in damage to the airframe, improper flight characteristics or crashes.</p>
+</div>
 <h4 id="ruddervator-servo-replacement">Ruddervator Servo Replacement<a class="headerlink" href="#ruddervator-servo-replacement" title="Permanent link">&para;</a></h4>
 <ol>
 <li>Using a 2mm hex wrench and a 5mm socket wrench remove control arm from the servo horn.<br />
@@ -504,8 +530,9 @@ Using the Adjust set knob rotate until the 5/7 position is selected then press t
 Using the adjustment knob select the right position then press the adjustment knob.  Slowly turn the pulse knob until value is set to 90 then press the adjust knob.
 Then press the back button.</p>
 <p>Verify that the following values are set.<br />
-| Limits                | -90/90 |
+| Parameter             | Setting |
 |-----------------------|--------|
+| Limits                | -90/90 |
 | Deadband              | 1      |
 | Speed                 | 64     |
 | Failsafe              | Off    |
