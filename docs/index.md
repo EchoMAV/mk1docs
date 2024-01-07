@@ -66,7 +66,8 @@ Using the Adjust set knob rotate until the 5/7 position is selected then press t
 Using the adjustment knob select the right position then press the adjustment knob.  Slowly turn the pulse knob until value is set to 90 then press the adjust knob.
 Then press the back button.
 
-Verify that the following values are set.  
+Verify that the following values are set:
+
 | Parameter             | Setting |
 |-----------------------|--------|
 | Limits                | -90/90 |
