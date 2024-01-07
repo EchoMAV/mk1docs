@@ -12,8 +12,19 @@ The MK1 is a Class II Hybrid-Power VTOL.
 
 ### Servo Replacement
 
-While robust and waterproof, should a servo failure occur, the instructions below can be used to replace the servos. Note that servos are configured at the factory for centerpoint, limits and other parameters and cannot be swapped with a commercial servo of the same part number. For replacement servos, please contact support@echomav.com.
+The instructions below can be used to program and replaced a damaged servo. 
 
+| Position                | Servo |
+|-----------------------|--------|
+| Ruddervator              | Hitec HS-5086WP  |
+| Aileron                 | Hitec HS-5086WP     |
+| Throttle              | Hitec HS-5086WP   |
+
+
+!!! warning
+
+       The Ruddervator and Aileron servos must be programmed using the instructiosn below prior to installation in the vehicle. Failure to do so may result in damage to the airframe, improper flight characteristics or crashes.
+     
 #### Ruddervator Servo Replacement
 
 1.  Using a 2mm hex wrench and a 5mm socket wrench remove control arm from the servo horn.  
@@ -56,8 +67,9 @@ Using the adjustment knob select the right position then press the adjustment kn
 Then press the back button.
 
 Verify that the following values are set.  
-| Limits                | -90/90 |
+| Parameter             | Setting |
 |-----------------------|--------|
+| Limits                | -90/90 |
 | Deadband              | 1      |
 | Speed                 | 64     |
 | Failsafe              | Off    |
