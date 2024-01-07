@@ -34,8 +34,10 @@ See pic.
 8. Move servo horn counterclockwise as far as it will go.  Pay attention to this position.  
 ![Servo 8](https://github.com/EchoMAV/mk1docs/assets/155487175/4cebe606-e30a-4552-a101-570d2b38d909)  
 9. Rotate the servo horn to the halfway point between the two positions found in steps 7 & 8. This should position the servo aproximatly to the 9 o'clock position pointing to the left.
+!!! note
 
-Note – The servo control horn position (9 o’clock – pointing to the left side) is for the Right Ruddervator.  For the left Ruddervator the servo horn will be in the 3 o’clock position pointing to the right side.  
+       The servo control horn position (9 o’clock – pointing to the left side) is for the Right Ruddervator.  For the left Ruddervator the servo horn will be in the 3 o’clock position pointing to the right side.
+      
 ![Servo 9](https://github.com/EchoMAV/mk1docs/assets/155487175/55d87f4b-0870-4250-bcd6-590159109e65)  
 10. Plug in power source to Servo Programmer and plug in new servo to programmer.  
 Set the programmer to prog mode using the slide switch on the right side of programmer.
@@ -54,13 +56,16 @@ Using the adjustment knob select the right position then press the adjustment kn
 Then press the back button.
 
 Verify that the following values are set.  
-Limits = -90/90  
-Deadband = 1  
-Speed = 64  
-Failsafe = Off  
-High Res = Off  
-Over Limit Protection = Off  
-You can now switch the programmer to the test position and select manual mode.  Turning the pulse knob should rotate the servo. 
+| Limits                | -90/90 |
+|-----------------------|--------|
+| Deadband              | 1      |
+| Speed                 | 64     |
+| Failsafe              | Off    |
+| High Res              | Off    |
+| Over Limit Protection | Off    |
+
+You can now switch the programmer to the test position and select manual mode. Turning the pulse knob should rotate the servo. 
+
 Reinstall the servo into the Ruddervator reversing steps 1-6. Use blue (242) lock tight when reinstalling the bolts and nuts. Make sure to use heat shrink on all solder connections.  
 ![Servo 15](https://github.com/EchoMAV/mk1docs/assets/155487175/af3c3532-e41a-483f-be7d-8f9f1e2a0965)  
 16. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 79mm.  
