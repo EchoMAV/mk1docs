@@ -92,14 +92,14 @@ Reinstall the servo into the Ruddervator reversing steps 1-6. Use blue (242) loc
 
 #### Aileron Servo Replacement
 1. Remove servo following Ruddervader steps 1-9.   
-   !!! note
+!!! note
 
-       In step 9 - The servo control horn 9 o’clock position pointing to the left side is for the Right Aileron.  For the left Aileron the servo horn will be in the 3 o’clock position pointing to the right side.
- 2. Program the servo folloowing Ruddervader steps 10-14.  
+       In step 9 - The servo control horn 9 o’clock position pointing to the left side is for the Right Aileron.  For the left Aileron the servo horn will be in the 3 o’clock position pointing to the right side.  
+2. Program the servo folloowing Ruddervader steps 10-14.  
 !!! note
 
        In step 14 - The servo control horn 9 o’clock position pointing to the left side is for the Right Aileron.  For the left Aileron the servo horn will be in the 3 o’clock position pointing to the right side.
- 3.   Using the adjustment knob select the left position then press the adjustment knob.  Slowly turn the pulse knob until value is set to -50 then press the adjust knob.
+3. Using the adjustment knob select the left position then press the adjustment knob.  Slowly turn the pulse knob until value is set to -50 then press the adjust knob.
 Using the adjustment knob select the right position then press the adjustment knob.  Slowly turn the pulse knob until value is set to 50 then press the adjust knob.
 Then press the back button.
 
