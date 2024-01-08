@@ -84,9 +84,10 @@ You can now switch the programmer to the test position and select manual mode. T
 
 Reinstall the servo into the Ruddervator reversing steps 1-6. Use blue (242) lock tight when reinstalling the bolts and nuts. Make sure to use heat shrink on all solder connections.  
 ![Servo 15](https://github.com/EchoMAV/mk1docs/assets/155487175/af3c3532-e41a-483f-be7d-8f9f1e2a0965)  
-16. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 79mm.  
-Verify all control service movement and direction using aircraft controller.   
+16. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 79mm. 
 ![Servo 16](https://github.com/EchoMAV/mk1docs/assets/155487175/28cbd84a-a6c2-482a-95ec-8d7a372bd3fb)  
+
+**VERIFY ALL CONTROL SERVICE MOVEMENT AND DIRECTION USING AIRCRAFT CONTROLLER.**   
 
 
 #### Aileron Servo Replacement
@@ -117,8 +118,9 @@ You can now switch the programmer to the test position and select manual mode. T
 
 4. Reinstall the Aileron servo into the wing reversing removal steps. Use blue (242) lock tight when reinstalling the bolts and nuts. Make sure to use heat shrink on all solder connections
 Verify all control service movement and direction using aircraft controller.  
-5. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 61mm.  
-Verify all control service movement and direction using aircraft controller.   
+5. Control arm length should not change during servo replacement.  Length from screw head to screw head should be ~ 61mm.
+     
+**VERIFY ALL CONTROL SERVICE MOVEMENT AND DIRECTION USING AIRCRAFT CONTROLLER.**   
   
 ### Battery Replacement
 
