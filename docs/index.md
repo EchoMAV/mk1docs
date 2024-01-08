@@ -124,7 +124,21 @@ Verify all control service movement and direction using aircraft controller.
   
 ### Battery Replacement
 
-### Fuel Filter Check/Clean
+### Fuel Filter Check/Clean  
+1. Remove Air scoop from engine using a 3mm hex wrench.  
+![Filter 1](https://github.com/EchoMAV/mk1docs/assets/155487175/ec69df49-d745-4cab-bd04-88cc5df99202)
+2. Remove fuel plug/filter by rotating clockwise then gently pulling to remove from fuel tank.
+![Filter 3](https://github.com/EchoMAV/mk1docs/assets/155487175/edec07b3-539d-43a9-892a-eccbd3513c7d)
+![Filter 4](https://github.com/EchoMAV/mk1docs/assets/155487175/65fd9600-152c-410c-9715-69510224a446)
+3. Unscrew filter housing from plug and remove filter. Note the orentation of the fuel filter.  
+![Filter 5](https://github.com/EchoMAV/mk1docs/assets/155487175/2d2ac276-b791-4a20-b0dc-e9182b7224f1)
+4. Inspect filter for contamination and damage. Clean or replace as necessary.  
+5. Inspect the white o-rings on the plug.  If damaged replace. **Worn o-rings can cause a fuel leak.**     
+6. Reverse steps to reinstall filter and plug. Make sure to replace fuel filter in original orentation.  Be sure to use locktight 242 (blue) on air scoop bolts.
+
+
+
+
 
 ### VTOL Prop Replacement
 
