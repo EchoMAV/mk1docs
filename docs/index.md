@@ -133,8 +133,9 @@ Verify all control service movement and direction using aircraft controller.
 3. Unscrew filter housing from plug and remove filter. Note the orentation of the fuel filter.  
 ![Filter 5](https://github.com/EchoMAV/mk1docs/assets/155487175/2d2ac276-b791-4a20-b0dc-e9182b7224f1)
 4. Inspect filter for contamination and damage. Clean or replace as necessary.  
-5. Inspect the white o-rings on the plug.  If damaged replace. **Worn o-rings can cause a fuel leak.**     
-6. Reverse steps to reinstall filter and plug. Make sure to replace fuel filter in original orentation.  Be sure to use locktight 242 (blue) on air scoop bolts.
+5. Inspect the white o-rings on the plug.  If damaged replace. **Worn or damaged o-rings can cause a fuel leak.**      
+6. Reverse steps to reinstall filter and plug. Make sure to replace fuel filter in original orentation.  
+Be sure to use locktight 242 (blue) on air scoop bolts.
 
 
 
