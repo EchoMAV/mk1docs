@@ -142,6 +142,14 @@ Be sure to use locktight 242 (blue) on air scoop bolts.
 
 
 ### VTOL Prop Replacement
+!!! warning
+
+       **The VTOL prop orentation is very important to ensure proper operation of the MK-1. Please note the prop type on location in below digram.**    
+       
+![Prop Orentation 2](https://github.com/EchoMAV/mk1docs/assets/155487175/edf01767-358f-4ef9-8ae9-790d79b2949c)
+
+
+
 
 ### Engine Prop Replacement
 
