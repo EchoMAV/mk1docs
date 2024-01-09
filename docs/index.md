@@ -144,10 +144,22 @@ Be sure to use locktight 242 (blue) on air scoop bolts.
 ### VTOL Prop Replacement
 !!! warning
 
-       **The VTOL prop orentation is very important to ensure proper operation of the MK-1. Please note the prop type on location in below digram.**    
+       **The VTOL prop orentation is very important to ensure proper operation of the MK-1. Please note the prop type and location in below digram.**    
        
-![Prop Orentation 2](https://github.com/EchoMAV/mk1docs/assets/155487175/edf01767-358f-4ef9-8ae9-790d79b2949c)
+![Prop Orentation 3](https://github.com/EchoMAV/mk1docs/assets/155487175/73eb499a-3286-4ffc-90c0-219d7e7f6460)
 
+1. Make sure aircraft is turned off and battery is disconnected. Position boom and motor to allow access to the prop area. Clean top area to remove any dirt or debris.  
+![image](https://github.com/EchoMAV/mk1docs/assets/155487175/076244c1-e5c4-4b0d-973b-b992717166cf)
+
+2. Using a 2.5mm allen wrench remove the 2 prop hold down bolts and prop hold down washer.  
+![image](https://github.com/EchoMAV/mk1docs/assets/155487175/e56d060b-a377-4f8d-b1cf-132a7cc1eeb4)  
+![image](https://github.com/EchoMAV/mk1docs/assets/155487175/5251549c-a0e3-4569-b6e3-e39f117effce)  
+3. Remove old prop and clean the prop mounting area to free any dirt or debris. Note location of prop mount and be careful not to move out of position.  
+![image](https://github.com/EchoMAV/mk1docs/assets/155487175/b0599a9d-40b1-429f-a005-9848f0cb08de)    
+5. Replace damaged prop with correct new prop (L or R) depending on potition. See prop location diagram in warning note at the beginning of this section.  Reattach new prop reversing above steps making sure to use Blue Lock Tight (242) on bolts.    
+
+
+   
 
 
 
