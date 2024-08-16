@@ -2,6 +2,11 @@
   {
     "version": "Rev0",
     "title": "Rev0",
+    "aliases": []
+  },
+  {
+    "version": "master",
+    "title": "master",
     "aliases": [
       "latest"
     ]
