@@ -1,6 +1,6 @@
 site_name: MK1 Documentation
 repo_url: https://github.com/EchoMAV/mk1docs
-edit_uri: edit/Rev0/docs
+edit_uri: edit/naster/mk1docs
 repo_name: echomav/mk1docs
 nav:
     - Home: index.md
@@ -9,8 +9,6 @@ theme:
   custom_dir: overrides
   logo: assets/echomav-small-black-bg.png
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.tracking
     - navigation.instant
@@ -42,7 +40,7 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
-
+  
 markdown_extensions:
   - toc:
       permalink: true
@@ -63,8 +61,13 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - glightbox
+  - open-in-new-tab
+  - search
 
 copyright: |
   &copy; 2024 <a href="echomav.com"  target="_blank" rel="noopener">EchoMAV, LLC</a>
